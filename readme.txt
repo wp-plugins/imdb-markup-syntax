@@ -1,7 +1,7 @@
 === IMDb Markup Syntax ===
 Contributors: HenrikRoos
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=YRT2ALPQH42N4
-Tags: IMDb, IMBb API, Movie, Markup, Syntax, Filter
+Tags: IMDb, Movie, API, Markup, Syntax, Clean
 Requires at least: 3.3
 Tested up to: 3.5.1
 Stable tag: 1.0
